@@ -1,0 +1,3 @@
+Se debe loguear solo con el usuario, ver los usuarios creados en la DB, para activar la contrasena se debe ingreasr al 
+index.php y borrar el comentario de del password en la linea 26
+Falta crear la opcion de registro
